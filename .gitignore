@@ -1,0 +1,11 @@
+
+# Build files
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+
+# App settings
+appsettings.json
+appsettings.Development.json
